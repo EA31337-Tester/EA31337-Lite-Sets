@@ -1,0 +1,31 @@
+
+
+
+                                         Strategy Tester Report
+                                      EA31337-Lite-Backtest-v1.070
+                                      Tripleafx-FX-Demo (Build 971)
+
+Symbol                    EURUSD (Euro vs US Dollar)
+Period                    30 Minutes (M30) 2014.01.06 00:00 - 2014.01.29 23:30 (2014.01.01 - 2014.01.30)
+Model                     Every tick (the most precise method based on all available least timeframes)
+                          __EA_Parameters__="-- Input EA parameters for EA31337 Lite (Backtest) v1.069 --
+                          __Strategy_Boosting_Parameters__="-- Strategy boosting parameters (set 1.0 for
+Parameters                Alligator30_SignalMethod=39; __Bands_Parameters__="-- Settings for the
+Bars in test          964 Ticks modelled                 5778592 Modelling quality                 80.68%
+Mismatched charts       0
+errors
+Initial deposit   2000.00                                        Spread                                10
+Total net profit   -49.66 Gross profit                    199.18 Gross loss                       -248.84
+Profit factor        0.80 Expected payoff                  -0.20
+Absolute drawdown  125.52 Maximal drawdown        183.71 (8.93%) Relative drawdown         8.93% (183.71)
+Total trades          249 Short positions (won %)   166 (49.40%) Long positions (won %)       83 (60.24%)
+                          Profit trades (% of       132 (53.01%) Loss trades (% of           117 (46.99%)
+                          total)                                 total)
+                  Largest profit trade                     19.77 loss trade                        -26.65
+                  Average profit trade                      1.51 loss trade                         -2.13
+                  Maximum consecutive wins             9 (12.92) consecutive losses            9 (-80.48)
+                          (profit in money)                      (loss in money)
+                  Maximal consecutive profit           30.70 (3) consecutive loss (count       -80.48 (9)
+                          (count of wins)                        of losses)
+                  Average consecutive wins                     2 consecutive losses                     2
+                                                 [Graph]
