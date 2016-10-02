@@ -1,46 +1,25 @@
 
 
 
-                                           Optimization Report
-                                      EA31337-Lite-Backtest-v1.067
-                                               (Build 950)
+                                                                 Optimization Report
+                                                             EA31337-Lite-Backtest-v1.071
+                                                            Tripleafx-FX-Demo (Build 971)
 
-      Symbol          EURUSD (Euro vs US Dollar)
-      Period          1 Minute (M1) 2014.01.01 23:41 - 2014.12.29 23:59 (2014.01.01 - 2014.12.30)
-      Model           Every tick (the most precise method based on all available least timeframes)
-      Initial deposit 2000.00
-      Spread          10
-                                          [Optimization Graph]
-             Pass   Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
-               32  -446.57            4          0.72         -111.64    1291.21      53.28
-               31  -446.57            4          0.72         -111.64    1291.21      53.28
-               30  -446.57            4          0.72         -111.64    1291.21      53.28
-               29  -446.57            4          0.72         -111.64    1291.21      53.28
-               16  -446.57            4          0.72         -111.64    1291.21      53.28
-               15  -446.57            4          0.72         -111.64    1291.21      53.28
-               14  -446.57            4          0.72         -111.64    1291.21      53.28
-               13  -453.57            4          0.72         -113.39    1291.21      53.43
-               28  -454.57            4          0.72         -113.64    1288.21      53.39
-               27  -454.57            4          0.72         -113.64    1288.21      53.39
-               12  -454.57            4          0.72         -113.64    1288.21      53.39
-               11  -454.57            4          0.72         -113.64    1288.21      53.39
-                5  -494.57            4          0.70         -123.64    1332.21      55.13
-               24  -498.57            4          0.70         -124.64    1332.21      55.22
-               23  -498.57            4          0.70         -124.64    1332.21      55.22
-               22  -498.57            4          0.70         -124.64    1332.21      55.22
-               21  -498.57            4          0.70         -124.64    1332.21      55.22
-                8  -498.57            4          0.70         -124.64    1332.21      55.22
-                7  -498.57            4          0.70         -124.64    1332.21      55.22
-                6  -498.57            4          0.70         -124.64    1332.21      55.22
-               20  -505.58            4          0.69         -126.39    1332.21      55.38
-               19  -505.58            4          0.69         -126.39    1332.21      55.38
-               18  -505.58            4          0.69         -126.39    1332.21      55.38
-               17  -505.58            4          0.69         -126.39    1332.21      55.38
-                4  -505.58            4          0.69         -126.39    1332.21      55.38
-                3  -505.58            4          0.69         -126.39    1332.21      55.38
-                2  -505.58            4          0.69         -126.39    1332.21      55.38
-                1  -505.58            4          0.69         -126.39    1332.21      55.38
-               26 -1197.05            4          0.09         -299.26    2615.19      76.51
-               25 -1197.05            4          0.09         -299.26    2615.19      76.51
-               10 -1197.05            4          0.09         -299.26    2615.19      76.51
-                9 -1197.05            4          0.09         -299.26    2615.19      76.51
+                             Symbol          EURUSD (Euro vs US Dollar)
+                             Period          5 Minutes (M5) 2014.01.02 06:20 - 2014.12.29 23:55 (2014.01.01 - 2014.12.30)
+                             Model           Every tick (the most precise method based on all available least timeframes)
+                             Initial deposit 2000.00
+                             Spread          10
+                                                                 [Optimization Graph]
+      Pass Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
+         9  -1.26           47          0.99           -0.03      55.27       2.72 DeMarker5_SignalMethod=24; MaxOrders=0; MaxOrdersPerType=35;
+         6  -1.54           18          0.96           -0.09      25.64       1.27 DeMarker5_SignalMethod=15; MaxOrders=0; MaxOrdersPerType=35;
+         4  -3.44           52          0.97           -0.07      64.95       3.18  DeMarker5_SignalMethod=9; MaxOrders=0; MaxOrdersPerType=35;
+         5  -4.37           52          0.97           -0.08      65.93       3.23 DeMarker5_SignalMethod=12; MaxOrders=0; MaxOrdersPerType=35;
+         7  -8.42           28          0.89           -0.30      46.12       2.27 DeMarker5_SignalMethod=18; MaxOrders=0; MaxOrdersPerType=35;
+         3  -8.73           11          0.73           -0.79      35.55       1.77  DeMarker5_SignalMethod=6; MaxOrders=0; MaxOrdersPerType=35;
+         2  -9.30           30          0.89           -0.31      48.91       2.41  DeMarker5_SignalMethod=3; MaxOrders=0; MaxOrdersPerType=35;
+         8 -12.00           26          0.85           -0.46      49.56       2.44 DeMarker5_SignalMethod=21; MaxOrders=0; MaxOrdersPerType=35;
+         1 -12.20           33          0.88           -0.37      55.48       2.73  DeMarker5_SignalMethod=0; MaxOrders=0; MaxOrdersPerType=35;
+        11 -13.54           22          0.79           -0.62      34.91       1.73 DeMarker5_SignalMethod=30; MaxOrders=0; MaxOrdersPerType=35;
+        10 -14.35           44          0.87           -0.33      50.42       2.48 DeMarker5_SignalMethod=27; MaxOrders=0; MaxOrdersPerType=35;
