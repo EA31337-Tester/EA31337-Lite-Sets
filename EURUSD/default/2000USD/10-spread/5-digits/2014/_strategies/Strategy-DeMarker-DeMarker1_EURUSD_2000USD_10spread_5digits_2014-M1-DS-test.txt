@@ -6,7 +6,7 @@
                                                             Tripleafx-FX-Demo (Build 971)
 
 Symbol                           EURUSD (Euro vs US Dollar)
-Period                           1 Minute (M1) 2014.01.01 23:41 - 2014.12.29 23:59 (2014.01.01 - 2014.12.30)
+Period                           1 Minute (M1) 2014.01.01 23:41 - 2014.12.30 23:59 (2014.01.01 - 2014.12.31)
 Model                            Every tick (the most precise method based on all available least timeframes)
                                  __EA_Parameters__="-- Input EA parameters for EA31337 Lite (Backtest) v1.070 --"; __Trade_Parameters__="-- Trade
                                  parameters --"; MaxOrders=0; MaxOrdersPerType=35; LotSize=0; TradeMicroLots=true; TrendMethod=33; MinVolumeToTrade=2;
@@ -47,17 +47,17 @@ Parameters                       Alligator30_SignalMethod=63; __Bands_Parameters
                                  MA1_SignalMethod=120; MA5_SignalMethod=126; MA15_SignalMethod=30; MA30_SignalMethod=51; __MACD_Parameters__="-
                                  - Settings for the Moving Averages Convergence/Divergence indicator --"; MACD1_Active=false; MACD5_Active=false;
                                  MACD_Shift=1;
-Bars in test              368714 Ticks modelled                         72707628 Modelling quality                                              24.99%
+Bars in test              370150 Ticks modelled                         72871137 Modelling quality                                              24.99%
 Mismatched charts errors       0
 Initial deposit          2000.00                                                 Spread                                                             10
-Total net profit           -5.16 Gross profit                               1.82 Gross loss                                                      -6.98
-Profit factor               0.26 Expected payoff                           -0.37
-Absolute drawdown           5.53 Maximal drawdown                   5.64 (0.28%) Relative drawdown                                        0.28% (5.64)
-Total trades                  14 Short positions (won %)              4 (25.00%) Long positions (won %)                                    10 (10.00%)
-                                 Profit trades (% of total)           2 (14.29%) Loss trades (% of total)                                  12 (85.71%)
-                         Largest profit trade                               0.93 loss trade                                                      -1.43
-                         Average profit trade                               0.91 loss trade                                                      -0.58
-                         Maximum consecutive wins (profit in money)     1 (0.93) consecutive losses (loss in money)                          8 (-5.16)
-                         Maximal consecutive profit (count of wins)     0.93 (1) consecutive loss (count of losses)                          -5.16 (8)
-                         Average consecutive wins                              1 consecutive losses                                                  4
+Total net profit           -3.63 Gross profit                               0.90 Gross loss                                                      -4.53
+Profit factor               0.20 Expected payoff                           -0.26
+Absolute drawdown           3.75 Maximal drawdown                   4.38 (0.22%) Relative drawdown                                        0.22% (4.38)
+Total trades                  14 Short positions (won %)              4 (25.00%) Long positions (won %)                                     10 (0.00%)
+                                 Profit trades (% of total)            1 (7.14%) Loss trades (% of total)                                  13 (92.86%)
+                         Largest profit trade                               0.90 loss trade                                                      -0.54
+                         Average profit trade                               0.90 loss trade                                                      -0.35
+                         Maximum consecutive wins (profit in money)     1 (0.90) consecutive losses (loss in money)                         10 (-3.85)
+                         Maximal consecutive profit (count of wins)     0.90 (1) consecutive loss (count of losses)                         -3.85 (10)
+                         Average consecutive wins                              1 consecutive losses                                                  7
                                                                        [Graph]
