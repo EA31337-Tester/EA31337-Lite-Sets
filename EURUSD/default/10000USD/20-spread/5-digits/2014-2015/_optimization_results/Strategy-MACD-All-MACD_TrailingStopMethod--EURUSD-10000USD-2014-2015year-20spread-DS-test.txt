@@ -1,0 +1,62 @@
+
+
+
+                                                                 Optimization Report
+                                                             EA31337-Lite-Backtest-v1.072
+                                                                     (Build 1010)
+
+                            Symbol          EURUSD (Euro vs US Dollar)
+                            Period          30 Minutes (M30) 2014.01.06 00:00 - 2015.12.31 00:00 (2014.01.01 - 2015.12.31)
+                            Model           Control points (a very crude method, the results must not be considered)
+                            Initial deposit 10000.00
+                            Spread          20
+                                                                 [Optimization Graph]
+     Pass   Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
+        2     2.56           53          1.00            0.05     355.94       3.45   MACD_TrailingStopMethod=0; MaxOrders=0; MaxOrdersPerType=0;
+        7   -15.77           56          0.94           -0.28      89.37       0.89  MACD_TrailingStopMethod=-3; MaxOrders=0; MaxOrdersPerType=0;
+       21   -29.04           66          0.99           -0.44     657.04       6.37 MACD_TrailingStopMethod=-10; MaxOrders=0; MaxOrdersPerType=0;
+       25   -29.04           66          0.99           -0.44     657.04       6.37 MACD_TrailingStopMethod=-12; MaxOrders=0; MaxOrdersPerType=0;
+       28   -29.04           66          0.99           -0.44     657.04       6.37 MACD_TrailingStopMethod=-14; MaxOrders=0; MaxOrdersPerType=0;
+       32   -29.04           66          0.99           -0.44     657.04       6.37 MACD_TrailingStopMethod=-16; MaxOrders=0; MaxOrdersPerType=0;
+       34   -29.04           66          0.99           -0.44     657.04       6.37 MACD_TrailingStopMethod=-17; MaxOrders=0; MaxOrdersPerType=0;
+       42   -29.04           66          0.99           -0.44     657.04       6.37 MACD_TrailingStopMethod=-22; MaxOrders=0; MaxOrdersPerType=0;
+       22   -50.00           74          0.79           -0.68      83.10       0.83  MACD_TrailingStopMethod=11; MaxOrders=0; MaxOrdersPerType=0;
+       23   -59.10           37          0.59           -1.60      68.50       0.68 MACD_TrailingStopMethod=-11; MaxOrders=0; MaxOrdersPerType=0;
+        4   -73.90           84          0.76           -0.88     114.80       1.14   MACD_TrailingStopMethod=2; MaxOrders=0; MaxOrdersPerType=0;
+       30   -74.80           38          0.49           -1.97      82.90       0.83 MACD_TrailingStopMethod=-15; MaxOrders=0; MaxOrdersPerType=0;
+        6   -84.77           70          0.71           -1.21     109.67       1.10   MACD_TrailingStopMethod=3; MaxOrders=0; MaxOrdersPerType=0;
+        5   -89.60           84          0.71           -1.07     113.60       1.13  MACD_TrailingStopMethod=-2; MaxOrders=0; MaxOrdersPerType=0;
+       29   -91.63           54          0.59           -1.70      96.03       0.96  MACD_TrailingStopMethod=15; MaxOrders=0; MaxOrdersPerType=0;
+       37  -112.04           66          0.53           -1.70     189.34       1.88 MACD_TrailingStopMethod=-19; MaxOrders=0; MaxOrdersPerType=0;
+       38  -123.24           68          0.55           -1.81     196.54       1.95  MACD_TrailingStopMethod=20; MaxOrders=0; MaxOrdersPerType=0;
+       36  -124.64           68          0.50           -1.83     186.64       1.86  MACD_TrailingStopMethod=19; MaxOrders=0; MaxOrdersPerType=0;
+        9  -138.55           70          0.66           -1.98     219.84       2.18  MACD_TrailingStopMethod=-4; MaxOrders=0; MaxOrdersPerType=0;
+       18  -143.97           36          0.35           -4.00     221.17       2.19   MACD_TrailingStopMethod=9; MaxOrders=0; MaxOrdersPerType=0;
+       39  -185.44          112          0.59           -1.66     305.74       3.02 MACD_TrailingStopMethod=-20; MaxOrders=0; MaxOrdersPerType=0;
+       19  -247.17           40          0.19           -6.18     429.07       4.21  MACD_TrailingStopMethod=-9; MaxOrders=0; MaxOrdersPerType=0;
+       13  -257.03         1471          0.99           -0.17    3808.76      32.31  MACD_TrailingStopMethod=-6; MaxOrders=0; MaxOrdersPerType=0;
+       12  -277.88         2102          0.99           -0.13    4100.76      29.67   MACD_TrailingStopMethod=6; MaxOrders=0; MaxOrdersPerType=0;
+       46  -283.59           58          0.65           -4.89     467.62       4.65 MACD_TrailingStopMethod=-25; MaxOrders=0; MaxOrdersPerType=0;
+       48  -323.26           61          0.43           -5.30     417.76       4.15  MACD_TrailingStopMethod=27; MaxOrders=0; MaxOrdersPerType=0;
+       20  -414.23          100          0.88           -4.14    1166.65      10.94  MACD_TrailingStopMethod=10; MaxOrders=0; MaxOrdersPerType=0;
+       24  -414.23          100          0.88           -4.14    1166.65      10.94  MACD_TrailingStopMethod=12; MaxOrders=0; MaxOrdersPerType=0;
+       27  -414.23          100          0.88           -4.14    1166.65      10.94  MACD_TrailingStopMethod=14; MaxOrders=0; MaxOrdersPerType=0;
+       31  -414.23          100          0.88           -4.14    1166.65      10.94  MACD_TrailingStopMethod=16; MaxOrders=0; MaxOrdersPerType=0;
+       33  -414.23          100          0.88           -4.14    1166.65      10.94  MACD_TrailingStopMethod=17; MaxOrders=0; MaxOrdersPerType=0;
+       41  -414.23          100          0.88           -4.14    1166.65      10.94  MACD_TrailingStopMethod=22; MaxOrders=0; MaxOrdersPerType=0;
+       17  -425.53         1133          0.99           -0.38    4144.67      37.18  MACD_TrailingStopMethod=-8; MaxOrders=0; MaxOrdersPerType=0;
+       47  -448.08           72          0.57           -6.22     608.41       6.06 MACD_TrailingStopMethod=-26; MaxOrders=0; MaxOrdersPerType=0;
+        1  -449.55           87          0.40           -5.17     606.85       6.00 MACD_TrailingStopMethod=-27; MaxOrders=0; MaxOrdersPerType=0;
+       11  -452.93          108          0.50           -4.19     528.82       5.25  MACD_TrailingStopMethod=-5; MaxOrders=0; MaxOrdersPerType=0;
+       26  -495.20         1078          0.99           -0.46    2973.11      26.99  MACD_TrailingStopMethod=13; MaxOrders=0; MaxOrdersPerType=0;
+       16  -658.56           38          0.27          -17.33     702.12       6.99   MACD_TrailingStopMethod=8; MaxOrders=0; MaxOrdersPerType=0;
+       15  -691.89           41          0.47          -16.88    1028.47      10.24  MACD_TrailingStopMethod=-7; MaxOrders=0; MaxOrdersPerType=0;
+        8  -805.06          634          0.70           -1.27     942.06       9.32   MACD_TrailingStopMethod=4; MaxOrders=0; MaxOrdersPerType=0;
+       44  -918.12         1074          0.98           -0.85    2821.77      23.98  MACD_TrailingStopMethod=24; MaxOrders=0; MaxOrdersPerType=0;
+       43 -1548.31         1118          0.96           -1.38    3130.19      27.24  MACD_TrailingStopMethod=23; MaxOrders=0; MaxOrdersPerType=0;
+       35 -1648.15         1141          0.96           -1.44    3531.52      33.35  MACD_TrailingStopMethod=18; MaxOrders=0; MaxOrdersPerType=0;
+       10 -1928.66         1145          0.69           -1.68    2073.36      20.52   MACD_TrailingStopMethod=5; MaxOrders=0; MaxOrdersPerType=0;
+       40 -2186.34         1067          0.94           -2.05    3405.37      31.65  MACD_TrailingStopMethod=21; MaxOrders=0; MaxOrdersPerType=0;
+       45 -2680.38         1539          0.69           -1.74    2909.44      28.45  MACD_TrailingStopMethod=25; MaxOrders=0; MaxOrdersPerType=0;
+        3 -2995.65         1350          0.93           -2.22    4064.74      37.02   MACD_TrailingStopMethod=1; MaxOrders=0; MaxOrdersPerType=0;
+       14 -3617.71         1189          0.91           -3.04    4206.40      39.79   MACD_TrailingStopMethod=7; MaxOrders=0; MaxOrdersPerType=0;
