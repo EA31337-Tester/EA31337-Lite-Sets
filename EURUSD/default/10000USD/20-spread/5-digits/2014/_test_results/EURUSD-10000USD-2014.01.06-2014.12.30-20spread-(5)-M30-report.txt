@@ -1,0 +1,55 @@
+Currency pair symbol:                       EURUSD
+Initial deposit:                            10000.00 USD
+Total net profit:                           -1186.19 USD
+Gross profit:                               329.14 USD
+Gross loss:                                 1515.33 USD
+Absolute drawdown:                          1253.38 USD
+Maximal drawdown:                           1273.9 USD (12.7%)
+Relative drawdown:                          (12.7%) 1273.9 USD
+Profit factor:                              0.22
+Expected payoff:                            -11.52
+Trades total                                103
+Short positions (won %):                    29 (17.2%)
+Long positions (won %):                     74 (31.1%)
+Profit trades (% of total):                 28 (27.2%)
+Loss trades (% of total):                   75 (72.8%)
+Largest profit trade:                       107.20
+Largest loss trade:                         -160.05
+Average profit trade:                       11.76
+Average loss trade:                         -20.20
+Average consecutive wins:                   1.00
+Average consecutive losses:                 4.00
+Maximum consecutive wins (profit in money): 4 (3.20)
+Maximum consecutive losses (loss in money): 13 (-310.17)
+Maximal consecutive profit (count of wins): 107.20 (1)
+Maximal consecutive loss (count of losses): 310.17 (13)
+Modelling quality:                          50.00%
+Total bars processed:                       12307
+Total ticks processed:                      73487172
+Bars per hour (avg):                        205
+Ticks per bar (avg):                        5971 (bar=30mins)
+Ticks per min (avg):                        199
+Strategy stats:
+Profit factor: 1.00, Total net profit: -355.36pips (+106.60/-461.96), Total orders: 19 (Won: 5.3% [1] / Loss: 94.7% [18]) - Alligator M30
+Profit factor: 0.04, Total net profit: -126.93pips (+5.57/-132.50), Total orders: 21 (Won: 33.3% [7] / Loss: 66.7% [14]) - Envelopes M15
+Profit factor: 0.02, Total net profit: -185.59pips (+4.20/-189.79), Total orders: 21 (Won: 28.6% [6] / Loss: 71.4% [15]) - Envelopes M30
+Profit factor: 0.27, Total net profit: -190.98pips (+72.00/-262.99), Total orders: 21 (Won: 47.6% [10] / Loss: 52.4% [11]) - MA M5
+Profit factor: 0.30, Total net profit: -320.15pips (+140.48/-460.64), Total orders: 21 (Won: 19.0% [4] / Loss: 81.0% [17]) - MA M15
+Report log:
+2014.01.06 00:00:00: EA31337 Lite (Backtest) v1.074 by kenorb (https://github.com/EA31337)
+ACCOUNT: Type: Off-line, Server/Company/Name: //, Currency: USD, Balance: 10000, Credit: 0, Equity: 10000, Orders limit: 0: Leverage: 1:100, StopOut Level: 0 (Mode: 0)
+SYMBOL: Symbol: EURUSD, Ask/Bid: 1.35977/1.35957, Session Volume: 0, Point size: 1e-05, Pip size: 0.0001, Tick size: 1e-05 (1e-05 pts), Tick value: 1 (0/0), Digits: 5, Spread: 20 pts, Trade stops level: 8, Trade contract size: 100000, Min lot: 0.1, Max lot: 100, Lot step: 0.1, Freeze level: 0, Margin init: 0
+MARKET: Pip digits: 4, Spread: 20 pts (2 pips; 0.0147%), Pts/pip: 10, Trade distance: 8 pts (0.0000 pips), Volume digits: 1, Margin required: 1359.67/lot, Delta: 100000
+CHART: OHLC: 1.35957/1.35957/1.35957/1.35957
+Swap specification for EURUSD: Mode: 0, Long/buy order value: 0.33, Short/sell order value: -1.04
+Calculated variables: Pip size: 0.0001, EA lot size: 0.1, Points per pip: 10, Pip digits: 4, Volume digits: 1, Spread in pips: 2.0 (20 pts), Stop Out Level: 0.3, Market gap: 8 pts (0 pips)
+EA params: Risk ratio: 1, Risk margin per order: 0.8%, Risk margin in total: 8%
+Strategies: Active strategies: 5 of 120, Max orders: 41 (per type: 16)
+
+Timeframes: M1; M2; M3; M4; M5; M6; M10; M12; M15; M20; M30; H1; H2; H3; H4; H6; H8; H12; D1; W1; MN1; 
+Datetime: Hour of day: 0, Day of week: 1, Day of month: 6, Day of year: 6, Month: 1, Year: 2014
+Account Details: Time: 2014.01.06 00:00:00; Account Balance: $10000.00; Account Equity: $10000.00; Account Credit: $0.00; Used Margin: $0.00; Free Margin: $10000.00; No of Orders: 0 (BUY/SELL: 0/0); Risk Ratio: 1.0
+
+2014.03.02 22:00:01: UpdateStats: Market very big drop of 40.7 pips detected!
+2014.04.13 21:00:01: UpdateStats: Market very big drop of 41.0 pips detected!
+2014.08.24 21:00:01: UpdateStats: Market very big drop of 44.4 pips detected!
