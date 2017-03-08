@@ -2,7 +2,7 @@
 
 
                                                                  Optimization Report
-                                                             EA31337-Lite-Backtest-v1.073
+                                                             EA31337-Lite-Backtest-v1.074
                                                                      (Build 1010)
 
                             Symbol          EURUSD (Euro vs US Dollar)
@@ -11,9 +11,9 @@
                             Initial deposit 10000.00
                             Spread          20
                                                                  [Optimization Graph]
-    Pass   Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
-       1 24749.94         2210          1.40           11.20   14526.66      41.43 TrailingStopAddPerMinute=0.1; MaxOrders=0; MaxOrdersPerType=0;
-       2 24669.86         2217          1.39           11.13   13543.63      41.43 TrailingStopAddPerMinute=0.2; MaxOrders=0; MaxOrdersPerType=0;
-       4 17404.79         2307          1.35            7.54    5630.51      44.73 TrailingStopAddPerMinute=0.4; MaxOrders=0; MaxOrdersPerType=0;
-       3 16846.36         2304          1.34            7.31    5701.71      45.33 TrailingStopAddPerMinute=0.3; MaxOrders=0; MaxOrdersPerType=0;
-       5 16579.98         2309          1.34            7.18    5652.77      45.02 TrailingStopAddPerMinute=0.5; MaxOrders=0; MaxOrdersPerType=0;
+    Pass  Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
+       1 1028.90          779          1.22            1.32     591.05       5.37 TrailingStopAddPerMinute=-0.1; MaxOrders=0; MaxOrdersPerType=0;
+       2 1028.90          779          1.22            1.32     591.05       5.37    TrailingStopAddPerMinute=0; MaxOrders=0; MaxOrdersPerType=0;
+       3 1028.90          779          1.22            1.32     591.05       5.37  TrailingStopAddPerMinute=0.1; MaxOrders=0; MaxOrdersPerType=0;
+       4 1028.90          779          1.22            1.32     591.05       5.37  TrailingStopAddPerMinute=0.2; MaxOrders=0; MaxOrdersPerType=0;
+       5 1028.90          779          1.22            1.32     591.05       5.37  TrailingStopAddPerMinute=0.3; MaxOrders=0; MaxOrdersPerType=0;
