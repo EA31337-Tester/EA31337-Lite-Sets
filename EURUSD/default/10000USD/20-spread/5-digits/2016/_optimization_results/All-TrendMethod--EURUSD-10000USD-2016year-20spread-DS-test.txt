@@ -2,75 +2,81 @@
 
 
                                                                  Optimization Report
-                                                             EA31337-Lite-Backtest-v1.073
+                                                             EA31337-Lite-Backtest-v1.074
                                                                      (Build 1010)
 
                             Symbol          EURUSD (Euro vs US Dollar)
-                            Period          30 Minutes (M30) 2016.01.06 03:00 - 2016.12.30 21:30 (2016.01.01 - 2016.12.31)
-                            Model           Control points (a very crude method, the results must not be considered)
+                            Period          30 Minutes (M30) 2016.06.01 01:00 - 2016.12.30 21:30 (2016.06.01 - 2016.12.31)
+                            Model           Every tick (the most precise method based on all available least timeframes)
                             Initial deposit 10000.00
                             Spread          20
                                                                  [Optimization Graph]
-           Pass  Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
-             61 7442.14          569          1.40           13.08    5741.70      35.77 TrendMethod=192; MaxOrders=0; MaxOrdersPerType=0;
-             55 7442.14          569          1.40           13.08    5741.70      35.77  TrendMethod=56; MaxOrders=0; MaxOrdersPerType=0;
-             54 7442.14          569          1.40           13.08    5741.70      35.77  TrendMethod=44; MaxOrders=0; MaxOrdersPerType=0;
-             47 7442.14          569          1.40           13.08    5741.70      35.77 TrendMethod=108; MaxOrders=0; MaxOrdersPerType=0;
-             45 7442.14          569          1.40           13.08    5741.70      35.77 TrendMethod=224; MaxOrders=0; MaxOrdersPerType=0;
-             44 7442.14          569          1.40           13.08    5741.70      35.77  TrendMethod=32; MaxOrders=0; MaxOrdersPerType=0;
-             30 7442.14          569          1.40           13.08    5741.70      35.77 TrendMethod=204; MaxOrders=0; MaxOrdersPerType=0;
-             26 7442.14          569          1.40           13.08    5741.70      35.77  TrendMethod=68; MaxOrders=0; MaxOrdersPerType=0;
-             22 7442.14          569          1.40           13.08    5741.70      35.77  TrendMethod=16; MaxOrders=0; MaxOrdersPerType=0;
-             21 7442.14          569          1.40           13.08    5741.70      35.77 TrendMethod=252; MaxOrders=0; MaxOrdersPerType=0;
-             20 7442.14          569          1.40           13.08    5741.70      35.77 TrendMethod=156; MaxOrders=0; MaxOrdersPerType=0;
-             17 7442.14          569          1.40           13.08    5741.70      35.77 TrendMethod=168; MaxOrders=0; MaxOrdersPerType=0;
-             14 7442.14          569          1.40           13.08    5741.70      35.77  TrendMethod=76; MaxOrders=0; MaxOrdersPerType=0;
-             12 7442.14          569          1.40           13.08    5741.70      35.77 TrendMethod=236; MaxOrders=0; MaxOrdersPerType=0;
-             11 7442.14          569          1.40           13.08    5741.70      35.77 TrendMethod=172; MaxOrders=0; MaxOrdersPerType=0;
-             10 7442.14          569          1.40           13.08    5741.70      35.77  TrendMethod=48; MaxOrders=0; MaxOrdersPerType=0;
-              4 7442.14          569          1.40           13.08    5741.70      35.77 TrendMethod=132; MaxOrders=0; MaxOrdersPerType=0;
-              3 7442.14          569          1.40           13.08    5741.70      35.77 TrendMethod=116; MaxOrders=0; MaxOrdersPerType=0;
-              2 7442.14          569          1.40           13.08    5741.70      35.77 TrendMethod=196; MaxOrders=0; MaxOrdersPerType=0;
-              1 7442.14          569          1.40           13.08    5741.70      35.77 TrendMethod=140; MaxOrders=0; MaxOrdersPerType=0;
-             62 6827.79          571          1.37           11.96    4960.79      29.98   TrendMethod=1; MaxOrders=0; MaxOrdersPerType=0;
-             60 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=241; MaxOrders=0; MaxOrdersPerType=0;
-             59 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=177; MaxOrders=0; MaxOrdersPerType=0;
-             58 6827.79          571          1.37           11.96    4960.79      29.98  TrendMethod=65; MaxOrders=0; MaxOrdersPerType=0;
-             57 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=134; MaxOrders=0; MaxOrdersPerType=0;
-             56 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=110; MaxOrders=0; MaxOrdersPerType=0;
-             53 6827.79          571          1.37           11.96    4960.79      29.98  TrendMethod=38; MaxOrders=0; MaxOrdersPerType=0;
-             52 6827.79          571          1.37           11.96    4960.79      29.98  TrendMethod=13; MaxOrders=0; MaxOrdersPerType=0;
-             51 6827.79          571          1.37           11.96    4960.79      29.98  TrendMethod=27; MaxOrders=0; MaxOrdersPerType=0;
-             50 6827.79          571          1.37           11.96    4960.79      29.98  TrendMethod=50; MaxOrders=0; MaxOrdersPerType=0;
-             49 6827.79          571          1.37           11.96    4960.79      29.98  TrendMethod=79; MaxOrders=0; MaxOrdersPerType=0;
-             48 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=146; MaxOrders=0; MaxOrdersPerType=0;
-             46 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=227; MaxOrders=0; MaxOrdersPerType=0;
-             43 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=210; MaxOrders=0; MaxOrdersPerType=0;
-             42 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=117; MaxOrders=0; MaxOrdersPerType=0;
-             41 6827.79          571          1.37           11.96    4960.79      29.98  TrendMethod=14; MaxOrders=0; MaxOrdersPerType=0;
-             40 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=242; MaxOrders=0; MaxOrdersPerType=0;
-             39 6827.79          571          1.37           11.96    4960.79      29.98  TrendMethod=95; MaxOrders=0; MaxOrdersPerType=0;
-             38 6827.79          571          1.37           11.96    4960.79      29.98  TrendMethod=18; MaxOrders=0; MaxOrdersPerType=0;
-             37 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=237; MaxOrders=0; MaxOrdersPerType=0;
-             36 6827.79          571          1.37           11.96    4960.79      29.98  TrendMethod=54; MaxOrders=0; MaxOrdersPerType=0;
-             35 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=235; MaxOrders=0; MaxOrdersPerType=0;
-             34 6827.79          571          1.37           11.96    4960.79      29.98  TrendMethod=97; MaxOrders=0; MaxOrdersPerType=0;
-             33 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=181; MaxOrders=0; MaxOrdersPerType=0;
-             32 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=122; MaxOrders=0; MaxOrdersPerType=0;
-             31 6827.79          571          1.37           11.96    4960.79      29.98   TrendMethod=3; MaxOrders=0; MaxOrdersPerType=0;
-             29 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=202; MaxOrders=0; MaxOrdersPerType=0;
-             28 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=126; MaxOrders=0; MaxOrdersPerType=0;
-             27 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=187; MaxOrders=0; MaxOrdersPerType=0;
-             25 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=198; MaxOrders=0; MaxOrdersPerType=0;
-             24 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=197; MaxOrders=0; MaxOrdersPerType=0;
-             23 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=254; MaxOrders=0; MaxOrdersPerType=0;
-             19 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=238; MaxOrders=0; MaxOrdersPerType=0;
-             18 6827.79          571          1.37           11.96    4960.79      29.98  TrendMethod=42; MaxOrders=0; MaxOrdersPerType=0;
-             16 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=167; MaxOrders=0; MaxOrdersPerType=0;
-             15 6827.79          571          1.37           11.96    4960.79      29.98  TrendMethod=82; MaxOrders=0; MaxOrdersPerType=0;
-             13 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=246; MaxOrders=0; MaxOrdersPerType=0;
-              9 6827.79          571          1.37           11.96    4960.79      29.98  TrendMethod=85; MaxOrders=0; MaxOrdersPerType=0;
-              8 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=191; MaxOrders=0; MaxOrdersPerType=0;
-              7 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=243; MaxOrders=0; MaxOrdersPerType=0;
-              6 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=179; MaxOrders=0; MaxOrdersPerType=0;
-              5 6827.79          571          1.37           11.96    4960.79      29.98 TrendMethod=105; MaxOrders=0; MaxOrdersPerType=0;
+            Pass Profit Total trades Profit factor Expected Payoff Drawdown $ Drawdown %
+              68 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=209; MaxOrders=0; MaxOrdersPerType=0;
+              67 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=81; MaxOrders=0; MaxOrdersPerType=0;
+              66 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=49; MaxOrders=0; MaxOrdersPerType=0;
+              65 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=241; MaxOrders=0; MaxOrdersPerType=0;
+              64 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=64; MaxOrders=0; MaxOrdersPerType=0;
+              63 520.09           60          2.08            8.67     342.90       3.26   TrendMethod=1; MaxOrders=0; MaxOrdersPerType=0;
+              62 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=113; MaxOrders=0; MaxOrdersPerType=0;
+              61 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=65; MaxOrders=0; MaxOrdersPerType=0;
+              60 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=145; MaxOrders=0; MaxOrdersPerType=0;
+              59 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=76; MaxOrders=0; MaxOrdersPerType=0;
+              58 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=124; MaxOrders=0; MaxOrdersPerType=0;
+              57 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=73; MaxOrders=0; MaxOrdersPerType=0;
+              56 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=63; MaxOrders=0; MaxOrdersPerType=0;
+              55 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=224; MaxOrders=0; MaxOrdersPerType=0;
+              54 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=243; MaxOrders=0; MaxOrdersPerType=0;
+              53 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=139; MaxOrders=0; MaxOrdersPerType=0;
+              52 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=232; MaxOrders=0; MaxOrdersPerType=0;
+              51 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=240; MaxOrders=0; MaxOrdersPerType=0;
+              50 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=22; MaxOrders=0; MaxOrdersPerType=0;
+              49 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=82; MaxOrders=0; MaxOrdersPerType=0;
+              48 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=161; MaxOrders=0; MaxOrdersPerType=0;
+              47 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=215; MaxOrders=0; MaxOrdersPerType=0;
+              46 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=66; MaxOrders=0; MaxOrdersPerType=0;
+              45 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=228; MaxOrders=0; MaxOrdersPerType=0;
+              44 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=60; MaxOrders=0; MaxOrdersPerType=0;
+              43 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=25; MaxOrders=0; MaxOrdersPerType=0;
+              42 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=50; MaxOrders=0; MaxOrdersPerType=0;
+              41 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=14; MaxOrders=0; MaxOrdersPerType=0;
+              40 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=147; MaxOrders=0; MaxOrdersPerType=0;
+              39 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=67; MaxOrders=0; MaxOrdersPerType=0;
+              38 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=144; MaxOrders=0; MaxOrdersPerType=0;
+              37 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=180; MaxOrders=0; MaxOrdersPerType=0;
+              36 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=88; MaxOrders=0; MaxOrdersPerType=0;
+              35 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=151; MaxOrders=0; MaxOrdersPerType=0;
+              34 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=12; MaxOrders=0; MaxOrdersPerType=0;
+              33 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=74; MaxOrders=0; MaxOrdersPerType=0;
+              32 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=129; MaxOrders=0; MaxOrdersPerType=0;
+              31 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=160; MaxOrders=0; MaxOrdersPerType=0;
+              30 520.09           60          2.08            8.67     342.90       3.26   TrendMethod=2; MaxOrders=0; MaxOrdersPerType=0;
+              29 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=16; MaxOrders=0; MaxOrdersPerType=0;
+              28 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=196; MaxOrders=0; MaxOrdersPerType=0;
+              27 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=244; MaxOrders=0; MaxOrdersPerType=0;
+              26 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=130; MaxOrders=0; MaxOrdersPerType=0;
+              25 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=28; MaxOrders=0; MaxOrdersPerType=0;
+              24 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=242; MaxOrders=0; MaxOrdersPerType=0;
+              23 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=236; MaxOrders=0; MaxOrdersPerType=0;
+              22 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=83; MaxOrders=0; MaxOrdersPerType=0;
+              21 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=190; MaxOrders=0; MaxOrdersPerType=0;
+              20 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=239; MaxOrders=0; MaxOrdersPerType=0;
+              19 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=175; MaxOrders=0; MaxOrdersPerType=0;
+              18 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=181; MaxOrders=0; MaxOrdersPerType=0;
+              17 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=85; MaxOrders=0; MaxOrdersPerType=0;
+              16 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=30; MaxOrders=0; MaxOrdersPerType=0;
+              15 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=79; MaxOrders=0; MaxOrdersPerType=0;
+              14 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=212; MaxOrders=0; MaxOrdersPerType=0;
+              13 520.09           60          2.08            8.67     342.90       3.26   TrendMethod=8; MaxOrders=0; MaxOrdersPerType=0;
+              12 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=179; MaxOrders=0; MaxOrdersPerType=0;
+              11 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=230; MaxOrders=0; MaxOrdersPerType=0;
+              10 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=77; MaxOrders=0; MaxOrdersPerType=0;
+               9 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=108; MaxOrders=0; MaxOrdersPerType=0;
+               8 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=238; MaxOrders=0; MaxOrdersPerType=0;
+               7 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=132; MaxOrders=0; MaxOrdersPerType=0;
+               6 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=237; MaxOrders=0; MaxOrdersPerType=0;
+               5 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=116; MaxOrders=0; MaxOrdersPerType=0;
+               4 520.09           60          2.08            8.67     342.90       3.26 TrendMethod=154; MaxOrders=0; MaxOrdersPerType=0;
+               3 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=37; MaxOrders=0; MaxOrdersPerType=0;
+               2 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=87; MaxOrders=0; MaxOrdersPerType=0;
+               1 520.09           60          2.08            8.67     342.90       3.26  TrendMethod=41; MaxOrders=0; MaxOrdersPerType=0;
