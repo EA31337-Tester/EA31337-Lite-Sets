@@ -1,0 +1,54 @@
+Currency pair symbol:                       EURUSD
+Initial deposit:                            10000.00 USD
+Total net profit:                           447.42 USD
+Gross profit:                               2485.21 USD
+Gross loss:                                 2037.79 USD
+Absolute drawdown:                          201.48 USD
+Maximal drawdown:                           503.2 USD (4.8%)
+Relative drawdown:                          (4.8%) 503.2 USD
+Profit factor:                              1.22
+Expected payoff:                            1.35
+Trades total                                332
+Short positions (won %):                    142 (30.3%)
+Long positions (won %):                     190 (19.5%)
+Profit trades (% of total):                 80 (24.1%)
+Loss trades (% of total):                   252 (75.9%)
+Largest profit trade:                       195.90
+Largest loss trade:                         -62.40
+Average profit trade:                       31.07
+Average loss trade:                         -8.09
+Average consecutive wins:                   2.00
+Average consecutive losses:                 5.00
+Maximum consecutive wins (profit in money): 6 (467.30)
+Maximum consecutive losses (loss in money): 27 (-273.84)
+Maximal consecutive profit (count of wins): 467.30 (6)
+Maximal consecutive loss (count of losses): 273.84 (27)
+Modelling quality:                          50.00%
+Total bars processed:                       11857
+Total ticks processed:                      202979386
+Bars per hour (avg):                        197
+Ticks per bar (avg):                        17118 (bar=30mins)
+Ticks per min (avg):                        570
+Strategy stats:
+Profit factor: 0.95, Total net profit: -29.57pips (+594.75/-624.32), Total orders: 82 (Won: 35.4% [29] / Loss: 64.6% [53]) - Envelopes M30
+Profit factor: 0.87, Total net profit: -161.05pips (+1051.27/-1212.33), Total orders: 208 (Won: 17.8% [37] / Loss: 82.2% [171]) - RSI M15
+Profit factor: 4.14, Total net profit: 635.60pips (+838.17/-202.56), Total orders: 42 (Won: 31.0% [13] / Loss: 69.0% [29]) - RSI M30
+Report log:
+2016.01.06 03:00:01: EA31337 Lite (Backtest) v1.074 by kenorb (https://github.com/EA31337)
+ACCOUNT: Type: Off-line, Server/Company/Name: //, Currency: USD, Balance: 10000, Credit: 0, Equity: 10000, Orders limit: 0: Leverage: 1:100, StopOut Level: 0 (Mode: 0)
+SYMBOL: Symbol: EURUSD, Ask/Bid: 1.07656/1.07636, Session Volume: 0, Point size: 1e-05, Pip size: 0.0001, Tick size: 1e-05 (1e-05 pts), Tick value: 1 (0/0), Digits: 5, Spread: 20 pts, Trade stops level: 8, Trade contract size: 100000, Min lot: 0.1, Max lot: 100, Lot step: 0.1, Freeze level: 0, Margin init: 0
+MARKET: Pip digits: 4, Spread: 20 pts (2 pips; 0.0186%), Pts/pip: 10, Trade distance: 8 pts (0.0000 pips), Volume digits: 1, Margin required: 1076.46/lot, Delta: 100000
+CHART: OHLC: 1.07636/1.07636/1.07636/1.07636
+Swap specification for EURUSD: Mode: 0, Long/buy order value: 0.33, Short/sell order value: -1.04
+Calculated variables: Pip size: 0.0001, EA lot size: 0.1, Points per pip: 10, Pip digits: 4, Volume digits: 1, Spread in pips: 2.0 (20 pts), Stop Out Level: 0.3, Market gap: 8 pts (0 pips)
+EA params: Risk ratio: 1, Risk margin per order: 0.6%, Risk margin in total: 8%
+Strategies: Active strategies: 3 of 120, Max orders: 51 (per type: 34)
+
+Timeframes: M1; M2; M3; M4; M5; M6; M10; M12; M15; M20; M30; H1; H2; H3; H4; H6; H8; H12; D1; W1; MN1; 
+Datetime: Hour of day: 3, Day of week: 3, Day of month: 6, Day of year: 6, Month: 1, Year: 2016
+Account Details: Time: 2016.01.06 03:00:01; Account Balance: $10000.00; Account Equity: $10000.00; Account Credit: $0.00; Used Margin: $0.00; Free Margin: $10000.00; No of Orders: 0 (BUY/SELL: 0/0); Risk Ratio: 1.0
+
+2016.06.19 21:00:33: UpdateStats: Market very big drop of 55.3 pips detected!
+2016.06.24 01:00:00: UpdateStats: Market very big drop of 56.7 pips detected!
+2016.06.26 21:00:20: UpdateStats: Market very big drop of 84.0 pips detected!
+2016.11.06 22:00:04: UpdateStats: Market very big drop of 74.1 pips detected!
